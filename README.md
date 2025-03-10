@@ -1,7 +1,6 @@
 # bike-store
 
-
-# https://www.novypro.com/project/bikestore
+https://www.novypro.com/project/bikestore
 
 Ось приклад коду на Python для створення дашборда в Streamlit, подібного до того, що зображено на знімку екрана з базою даних Bike Store:
 
